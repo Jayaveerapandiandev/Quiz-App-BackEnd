@@ -13,20 +13,19 @@ This is the **backend** for a full-stack Quiz Application, built with **ASP.NET 
   <!-- C# -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
   
-  <!-- Entity Framework -->
- <!-- Entity Framework Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="50" height="50" alt="Entity Framework Core"/>
-
+  <!-- Entity Framework Core -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Entity_Framework_Logo.svg" width="50" height="50" alt="Entity Framework Core"/>
   
   <!-- SQL Server -->
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50" alt="SQL Server 2022"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQL Server 2022"/>
   
   <!-- Visual Studio -->
-  <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="50" height="50" alt="Visual Studio 2022"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="50" height="50" alt="Visual Studio 2022"/>
   
-  <!-- SSMS -->
-  <img src="https://learn.microsoft.com/en-us/sql/media/sql-server-management-studio-ssms/icon-ssms.svg" width="50" height="50" alt="SQL Server Management Studio 2022"/>
+  <!-- SSMS (SQL Server Management Studio) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SSMS 2022"/>
 </p>
+
 
 ---
 
