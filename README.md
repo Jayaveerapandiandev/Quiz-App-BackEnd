@@ -56,7 +56,7 @@ The **Quiz App** provides a seamless quiz-taking experience with features like r
 
 ## 📌 Requirements  
 
-- ASP.NET Core 6.0+  
+- ASP.NET Core 8.0+  
 - Entity Framework Core  
 - Microsoft SQL Server 2022  
 - Visual Studio 2022  
