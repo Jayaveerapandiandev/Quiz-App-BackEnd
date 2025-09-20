@@ -14,7 +14,9 @@ This is the **backend** for a full-stack Quiz Application, built with **ASP.NET 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/>
   
   <!-- Entity Framework -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/.NET_Framework_Logo.svg" width="50" height="50" alt="Entity Framework Core"/>
+ <!-- Entity Framework Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="50" height="50" alt="Entity Framework Core"/>
+
   
   <!-- SQL Server -->
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="50" height="50" alt="SQL Server 2022"/>
