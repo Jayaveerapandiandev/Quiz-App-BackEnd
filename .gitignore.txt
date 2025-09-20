@@ -1,0 +1,45 @@
+############################
+# Build & Runtime Artifacts
+############################
+bin/
+obj/
+publish/
+*.exe
+*.dll
+*.app
+*.log
+*.db
+*.sqlite
+
+############################
+# Visual Studio
+############################
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+############################
+# Rider / JetBrains IDE
+############################
+.idea/
+*.iml
+
+############################
+# NuGet Packages
+############################
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+############################
+# Others
+############################
+*.pdb
+*.mdb
+*.bak
+*.tmp
